@@ -1,0 +1,55 @@
+.navbar-right label{
+    color: white;
+}
+
+body{
+    padding-top: 70px;
+}
+
+#home{
+    background: url(images/image1.jpg);
+    height: 100%;
+    background-size: cover;
+    height: 700px;
+    color: white;
+}
+
+#contact{
+    background: url(images/image4.jpg);
+    height: 100%;
+    background-size: cover;
+    height: 700px;
+    color: white;
+}
+
+#youTube{
+    background: url(images/image3.jpg);
+    height: 100%;
+    background-size: cover;
+    height: 1500px;
+    color: white;
+}
+#about{
+    background: url(images/image4.jpg);
+    height: 100%;
+    background-size: cover;
+    height: 700px;
+    color: white;
+}
+.box {
+    height: 700px;
+    padding-top: 70px;
+    
+}
+.box1{
+     height: 700px;
+    padding-top: 200px;
+}
+
+.box1 row col-xs-6 col-md-4{
+    font-size: 20px;
+}
+
+.box1 .glyphicon{
+    font-size: 30px;
+}
